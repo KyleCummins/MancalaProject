@@ -1,0 +1,9 @@
+To Do:
+-TRANSLATE CODE TO C++
+-Research better state interpretations for Q Learning
+-Redo Monte Carlo Search Tree functionality
+-Alpha-Beta Minimax search functionality
+-Asynchronous Advantage Actor-Critic Agent
+-Add options for varying board views
+-MAKE CODE PRETTY
+-MAKE GAME PRETTY
