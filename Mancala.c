@@ -344,7 +344,7 @@ void testMancala()
 	printf("When going first, the Expert Agent won %d%% of matches against Random, %d%% against Max, %d%% against itself, and %d%% against Q.\n", record[2][0], record[2][1], record[2][2], record[2][3]);
 	printf("When going first, the Q Agent won %d%% of matches against Random, %d%% against Max, %d%% against Expert, and %d%% against itself.\n", record[3][0], record[3][1], record[3][2], record[3][3]);
 	
-	printf("(Many matchups will be either 0% or 100%, this is because all present agents besides random are deterministic)\nPress Enter to exit program.");
+	printf("(Many matchups will be either 0%% or 100%%, this is because all present agents besides random are deterministic)\nPress Enter to exit program.");
 	getchar();
 }
 
