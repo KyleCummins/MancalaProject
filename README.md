@@ -1,7 +1,7 @@
 Kyle Cummins's Mancala Project
 
 Description:
-This is a programming project that I started for a machine learningclass but have since expanded in my own time. 
+This is a programming project that I started for a machine learning class but have since expanded in my own time. 
 This program will play Mancala under the popular Kalah ruleset and allow players to compete against AI of varying complexity or human opponents.
 All basic game parameters are customizable including board size and number of starting stones, all AI will adapt to these changes.
 
